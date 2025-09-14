@@ -1,0 +1,3 @@
+﻿  main.c
+D:\Udemy Courses\C Programming Bootcamp\ChihuahuaSketch\main.c(7,2): warning C4013: 'system' undefined; assuming extern returning int
+  ChihuahuaSketch.vcxproj -> D:\Udemy Courses\C Programming Bootcamp\ChihuahuaSketch\x64\Debug\ChihuahuaSketch.exe
